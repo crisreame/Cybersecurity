@@ -1,6 +1,6 @@
 # Super secure, much safe, so chat
 
-Students:
+Student:
   Cristiano Reame
 
 
