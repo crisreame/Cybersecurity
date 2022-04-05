@@ -1,4 +1,4 @@
-# Super secure, much safe, so chat
+# Super secure, much safe
 
 Student:
   Cristiano Reame
