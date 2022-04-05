@@ -1,7 +1,7 @@
 <!-- Authenticate a registered user. -->
 <?php
 include('config.php');
-
+// Cristiano Reame
 // if the session is active redirect to the landing page
 if (isset($_SESSION['username'])) {
     header("Location: index.php");
